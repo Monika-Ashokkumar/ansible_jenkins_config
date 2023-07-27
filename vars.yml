@@ -1,0 +1,5 @@
+# jenkins user  password
+jenkins_user_pass: jenkins123
+
+jenkins_plugins:
+  - git
